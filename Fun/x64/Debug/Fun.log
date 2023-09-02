@@ -1,0 +1,14 @@
+﻿  Search.cpp
+C:\Users\Denny\source\repos\Fun\Fun\Search.h(76,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Denny\source\repos\Fun\Fun\Search.h(71,1): message : while compiling class template member function 'int myVector<std::string>::binarySearch(T)'
+          with
+          [
+              T=std::string
+          ]
+C:\Users\Denny\source\repos\Fun\Fun\Search.cpp(27,20): message : see reference to function template instantiation 'int myVector<std::string>::binarySearch(T)' being compiled
+          with
+          [
+              T=std::string
+          ]
+C:\Users\Denny\source\repos\Fun\Fun\Search.cpp(4,22): message : see reference to class template instantiation 'myVector<std::string>' being compiled
+  Fun.vcxproj -> C:\Users\Denny\source\repos\Fun\x64\Debug\Fun.exe
